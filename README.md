@@ -10,3 +10,6 @@ auth token.
 trial whatsapp no. given by twilio,
 your whatsapp number used to setup twilio sandbox,
 your pincode..
+
+
+open this twilio account only when you want to book appointment slot. because the free trails is for 3 days 
